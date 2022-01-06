@@ -1,1 +1,1 @@
-https://MedakD.github.io/rsschool-cv/
+https://MedakD.github.io/rsschool-cv/cv
