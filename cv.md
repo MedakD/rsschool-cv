@@ -3,10 +3,11 @@
 ---
 
 ####Contacts:
-* Discord: MedakD
-* GitHub: [MedakD](https://github.com/MedakD)
-* E-mail: timemedak@gmail.com
-* Tel: +375298596969
+
+- Discord: MedakD
+- GitHub: [MedakD](https://github.com/MedakD)
+- E-mail: timemedak@gmail.com
+- Tel: +375298596969
 
 ---
 
@@ -16,8 +17,9 @@ I want to learn Front-End Development in RSSchool! I hope my diligence and the c
 ---
 
 ####Skills:
-* HTML
-* Photoshop
+
+- HTML
+- Photoshop
 
 ---
 
@@ -37,12 +39,12 @@ return str.slice(1, str.length - 1);
 
 ####Education:
 
-* Secondary education.
-* [JavaScript](https://www.udemy.com/course/javascript)
+- Secondary education.
+- [JavaScript](https://www.udemy.com/course/javascript)
 
 ---
 
 ####Languages:
 
-* Russian - Native
-* English - A1
+- Russian - Native
+- English - A1
