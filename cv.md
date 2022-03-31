@@ -2,7 +2,7 @@
 ---
 ####Contacts:
     Discord: MedakD
-    GitHub: MedakDtit
+    GitHub: MedakD
     E-mail: timemedak@gmail.com
     Tel: +375298596969
 ---
@@ -19,6 +19,6 @@ I want to learn Front-End Development in RSSchool!  I hope my diligence and the 
 ####Experience:
 ---
 ####Education:
-    Secondary education. 
+    Secondary education.
     JavaScript:
     https://www.udemy.com/course/javascript
